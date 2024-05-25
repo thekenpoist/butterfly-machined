@@ -21,9 +21,9 @@ machining processes on CNC machineery.
 ```
 
 ### The butterfly-machined example
-'''
+```
 In this program macros is being implemented to access machine global parameters
 for tracking and managing tool life, control turret indexing positions, and 
 activate the ATP (Automated Tool Presetter) when tool geometry needs to be 
 re-set after tool change, relieving the machine operator of these responsibilites.
-''' 
+``` 
